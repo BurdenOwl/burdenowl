@@ -1,10 +1,10 @@
 # hi hello, good meeting thee
 
+this is my profile and it's definitely a sight to behold. if you ever have the displeasure of meeting me in real life, please give me high fantasy books
+
 ![cute owl!](shutterstock_1687802734-992x803.png)
 
-## feel the christmas spirit retail workers
-
-this is my profile and it's definitely a sight to behold. if you ever have the displeasure of meeting me in real life, please give me high fantasy books
+## languages I know
 
 I know JS (Currently learning TS because of suicidal thoughts arising), CSS, HTML, and a wee tad bit of Python (when I mean "wee tad bit", I mean infinitesimal)
 
