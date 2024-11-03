@@ -1,6 +1,6 @@
 # hi hello, good meeting thee
 
-this is my profile and it's definitely a sight to behold. if you ever have the displeasure of meeting me in real life, please give me high fantasy books
+this is my profile and it's definitely a sight to behold. if you ever have the displeasure of meeting me in real life, please give me high fantasy books, and Milk Tea or Coffee (Black is fine, albeit a tad 苦い)
 
 ![cute owl!](shutterstock_1687802734-992x803.png)
 
@@ -18,6 +18,16 @@ I know JS (Currently learning TS because of suicidal thoughts arising), CSS, HTM
 
 If my code looks a tad yucky, that's because I am currently relearning it (I shall forever say this even when I can code somewhat well)
 
-I also know actual languages but those don't really matter here. 
+## facts about me
+
+socially brain dead.
+
+former (and probably still) always nester.
+
+knows three languages (like real languages) and aspires to learn 5.
+
+will most likely get glasses in 6 months. 
+
+can code for 6 hours straight without getting anything accomplished. 
 
 よろしくお願いします。
