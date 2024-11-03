@@ -14,20 +14,20 @@ this is my profile and it's definitely a sight to behold. if you ever have the d
     </picture>
 </a>
 
-I know JS (Currently learning TS because of suicidal thoughts arising), CSS, HTML, and a wee tad bit of Python (when I mean "wee tad bit", I mean infinitesimal)
++ JavaScript (Main Language)
++ TypeScript (Currently Learning)
++ HTML
++ CSS
++ Python (Little bit and now started learning)
 
 If my code looks a tad yucky, that's because I am currently relearning it (I shall forever say this even when I can code somewhat well)
 
 ## facts about me
 
-socially brain dead.
-
-former (and probably still) always nester.
-
-knows three languages (like real languages) and aspires to learn 5.
-
-will most likely get glasses in 6 months. 
-
-can code for 6 hours straight without getting anything accomplished. 
++ Socially brain dead.
++ Former (and probably still) always nester.
++ Knows three languages (like real languages) and aspires to learn 5.
++ Will most likely get glasses in 6 months. 
++ Can code for 6 hours straight without getting anything accomplished. 
 
 よろしくお願いします。
