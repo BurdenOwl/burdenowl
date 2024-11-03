@@ -6,6 +6,14 @@ this is my profile and it's definitely a sight to behold. if you ever have the d
 
 ## languages I know
 
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <picture align="right" title="Top Langs">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=burdenowl&theme=one_dark_pro&layout=compact" alt="Top Langs" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=burdenowl&theme=default&layout=compact" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=burdenowl&theme=default&layout=compact" align="right" alt="Top Langs" />
+    </picture>
+</a>
+
 I know JS (Currently learning TS because of suicidal thoughts arising), CSS, HTML, and a wee tad bit of Python (when I mean "wee tad bit", I mean infinitesimal)
 
 If my code looks a tad yucky, that's because I am currently relearning it (I shall forever say this even when I can code somewhat well)
