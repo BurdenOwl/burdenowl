@@ -2,6 +2,8 @@
 
 this is my profile and it's definitely a sight to behold. if you ever have the displeasure of meeting me in real life, please give me high fantasy books, and Milk Tea or Coffee (Black is fine, albeit a tad 苦い)
 
+for whatever reason one wishes talk to me, one can do that by contacting me through Discord. Just send me a friend request at BurdenOwl (same username as GitHub)
+
 ![cute owl!](shutterstock_1687802734-992x803.png)
 
 ## languages I know
