@@ -1,6 +1,6 @@
 # hi hello, good meeting thee
 
-Abandoned account; coding is fucking dogshit. 
+Abandoned account; coding is an atrocity to man.
 
 this is my profile and it's definitely a sight to behold. if you ever have the displeasure of meeting me in real life, please give me high fantasy books, and Milk Tea or Coffee (Black is fine, albeit a tad 苦い)
 
