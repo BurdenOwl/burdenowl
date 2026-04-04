@@ -1,12 +1,16 @@
-# hi hello, good meeting thee
+# hi hello
 
-Abandoned account; coding is an atrocity to man.
+Echidna's biggest simp; I like nuance.
 
-this is my profile and it's definitely a sight to behold. if you ever have the displeasure of meeting me in real life, please give me high fantasy books, and Milk Tea or Coffee (Black is fine, albeit a tad 苦い)
+悲しみの涙を拭うことのできない『怠惰』が
+互いに溶け合い、一つになりたい『色欲』が
+喰らい尽くして、奪い尽くしたい『暴食』が
+愛して求めて欲して全てを得たい『強欲』が
+それを許さぬ理不尽と不条理への『憤怒』が
+貴女以外、全て蔑ろにしてしまう『傲慢』が
 
-for whatever reason one wishes talk to me, one can do that by contacting me through Discord. Just send me a friend request at BurdenOwl (same username as GitHub)
 
-![cute owl!](shutterstock_1687802734-992x803.png)
+ただ愛おしい貴女を包む世界への『嫉妬』が。
 
 ## languages I know
 
